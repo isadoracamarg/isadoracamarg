@@ -1,8 +1,8 @@
 ### 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=98FB98&size=25&center=true&vCenter=true&width=1000&lines=Hello+world,+I'm+Isa!+✨🦕)](https://git.io/typing-svg)
 
-- 💻 Cursando Sistemas de Informação | PUCRS
-- Linguagem que estou estudando atualmente
+- Studying Information Systems | PUCRS
+- Languages I'm currently studying
 
   <div align="left">
   <img width="25" />
