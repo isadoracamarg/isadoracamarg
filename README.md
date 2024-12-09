@@ -10,7 +10,7 @@
 - Tech stack
   <div align="left">
   <img width="25" />
-  <img src="https://img.shields.io/badge/SpringBoot-76B05E?style=for-the-badge&Color=white">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/SQL-6495ED?style=for-the-badge&Color=white">
 </div>
 
