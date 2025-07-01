@@ -7,6 +7,7 @@
   <div align="left">
   <img width="25" />
   <img src="https://img.shields.io/badge/Java-800000?style=for-the-badge&logo=openjdk&logoColor=white)">
+  <img src="https://img.shields.io/badge/Python-4169E1?style=for-the-badge&logo=python&logoColor=white">
 - Tech stack
   <div align="left">
   <img width="25" />
