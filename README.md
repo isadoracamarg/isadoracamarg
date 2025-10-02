@@ -13,6 +13,9 @@
   <img width="25" />
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/SQL-6495ED?style=for-the-badge&Color=white">
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=fff">
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=fff">
+  <img src="https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?style=for-the-badge&logo=power-bi&logoColor=fff)">
 </div>
 
 ###
